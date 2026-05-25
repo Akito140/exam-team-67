@@ -1,2 +1,4 @@
 # exam-team-67
-Radomir - Team Member 
+Radomir - Team Member
+Alisher - Leader
+
