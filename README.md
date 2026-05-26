@@ -4,3 +4,4 @@
 - Kamila (kamikaze-B) - Member
 - (Место Айто)
 - (Мусто Умай)
+- Arstan (aanasbekov-ops) - Member
